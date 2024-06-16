@@ -1,1 +1,1 @@
-Creating the Reposartory for User adoption Assignment from TensorIOT.
+Creating the repository for User adoption Assignment from TensorIOT.
